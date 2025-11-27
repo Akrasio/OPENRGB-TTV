@@ -17,6 +17,6 @@
   },
   "keywords": [],
   "author": "aunnux",
-  "license": "ISC",
+  "license": "MIT",
   "description": "simplifies having to install and set up alot of stuff with OPENRGB-SDK + Tmi.js"
 }
