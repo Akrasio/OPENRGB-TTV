@@ -4,7 +4,7 @@
 ## Example Usage
 ```js
 # Index.JS
-const { Client } = require("../index");
+const { Client } = require("openrgb-ttv");
 const id = {
     username: "username_here",
     oauthKey: "oauth:key",

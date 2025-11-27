@@ -4,14 +4,19 @@
     "tmi.js": "^1.8.5"
   },
   "name": "openrgb-ttv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "devDependencies": {},
+  "homepage": "https://github.com/akrasio/openrgb-ttv",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/akrasio/openrgb-ttv"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "aunnux",
   "license": "ISC",
-  "description": ""
+  "description": "simplifies having to install and set up alot of stuff with OPENRGB-SDK + Tmi.js"
 }
