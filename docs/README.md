@@ -32,7 +32,8 @@ Requirements:
 #
 ### Get rewardId:
 - [Streamer.bot](https://streamer.bot)
-![RewardIDs](docs/imgs/rewardId.png)
+![RewardIDs](imgs\rewardId.png)
+
 
 > Made with :heart: by @aunnux
   
