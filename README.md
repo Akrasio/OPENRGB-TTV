@@ -26,7 +26,7 @@ Requirements:
 ---
 - OpenRGB Software
 - Twitch API / OAuth Key with `channel:read:redemptions`. 
-  - [Generate Here](https://twitchtokengenerator.com, "For TESTING Purposes")
+  - [Generate Here](https://twitchtokengenerator.com "For TESTING Purposes")
   - [REMINDER](https://twitchtokengenerator.com/#:~:text=Reminder)
 
 #
